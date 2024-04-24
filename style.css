@@ -43,3 +43,11 @@ body {
     display: grid;
     grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
+
+.play_board .food {
+    background: #ff003d;
+}
+
+.play_board .snake_head {
+    background: #0059ff;
+}
