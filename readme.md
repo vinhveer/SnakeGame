@@ -12,4 +12,3 @@
 
 ***Email:*** [contact.nguyenquangvinh@gmail.com](mailto:contact.nguyenquangvinh@gmail.com)
 
-***Phone*** [Call me](tel:0367576135)
