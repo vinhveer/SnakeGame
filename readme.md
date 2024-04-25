@@ -12,4 +12,4 @@
 
 ***Email:*** [contact.nguyenquangvinh@gmail.com](mailto:contact.nguyenquangvinh@gmail.com)
 
-***Phone*** [📞](tel:+84367576135)
+***Phone*** [📞](tel:0367576135)
